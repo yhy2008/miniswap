@@ -1,0 +1,11 @@
+{
+  "name": "miniswap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@chainsafe/truffle-plugin-abigen": "^0.0.2",
+    "@openzeppelin/contracts": "^4.4.0",
+    "truffle": "^5.4.24"
+  }
+}
